@@ -12,6 +12,14 @@ Dataset generation based on 1D-CAE modeling for fault diagnostics in a spacecraf
 4th Asia Pacific Conference of the Prognostics and Health Management,Tokyo, Japan, September 11 – 14, 2023, DC01-01. https://papers.phmsociety.org/index.php/phmap/article/view/3784
 https://phmap.jp/program-data/
 
+## Schematics of propulusion system (hardware)
+
+![image](https://github.com/user-attachments/assets/0a492ac6-38c0-42c2-871c-10f91d54b35d)
+
+![image](https://github.com/user-attachments/assets/032d031f-ba70-44ad-8e99-f616ef81e53e)
+
+image credit (Tominaga 2023)
+
 ## Block diagram of propulsion system
 
 ![BlockDiagram](https://github.com/user-attachments/assets/a88250e1-a9c5-4d5c-a9f4-6a839089ca52)
